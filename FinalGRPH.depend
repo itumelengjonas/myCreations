@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727994884 source:c:\users\renat\dut assignments\finalgrph\main.cpp
+	<GL/glut.h>
+	<string.h>
+	<vector>
+	<cmath>
+
